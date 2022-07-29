@@ -10,7 +10,6 @@ const App = () => {
     Roboto_900Black,
     Roboto_700Bold,
     Roboto_400Regular,
-
   });
 
   

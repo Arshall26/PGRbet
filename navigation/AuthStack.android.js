@@ -1,4 +1,3 @@
-
 import React, {useState, useEffect} from 'react';
 import {View,Image, TouchableOpacity, Text} from 'react-native';
 import {createStackNavigator} from '@react-navigation/stack';
